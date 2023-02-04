@@ -1,4 +1,4 @@
-# Proiect-SPT
+# Proiect-SPT112
 ## Echipa proiect
 * Totoiu Andrei Catalin
 * Gheorghe Alexandru
