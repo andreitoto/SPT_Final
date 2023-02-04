@@ -34,4 +34,5 @@ Aplicatia noastra este conceputa pentru a ajuta moderatorul aplicatiei care are 
 ## Baza de date
 ![Use_case_diagram](https://user-images.githubusercontent.com/76403182/215259025-6a7a7b1a-f03a-405b-be65-6a624f3b2f96.png)
 ![digrama_de_clasa](https://user-images.githubusercontent.com/76403182/215259003-5af2fd30-185f-43de-83dc-ee684fe2e435.png)
-![bazaDeDate](https://user-images.githubusercontent.com/76403182/215259107-8b76e116-8e62-43db-8df7-14a3f715cb4a.png)
+![bazaDeDate](https://user-images.githubusercontent.com/76403182/215259107-8b76e116-8e62-43db-8df7-14a3f715cb4a.png)![image](https://user-images.githubusercontent.com/76403182/216767261-bdc5f86b-80f4-4891-b7fe-128acaa7dfc1.png)
+
